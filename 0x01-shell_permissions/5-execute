@@ -1,2 +1,2 @@
 #!/bin/bash
-touch alx-system_engineering/hello
+chmod +x hello
