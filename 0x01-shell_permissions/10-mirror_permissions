@@ -1,2 +1,2 @@
 #!/bin/bash
-chowd --reference=olleh hello
+chmod --reference=olleh hello
