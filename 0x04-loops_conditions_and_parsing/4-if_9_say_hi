@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+#desples Best school 9 times
+#displeys hi for the nineth eteration
+i=1
+
+while [[ $i -le 10 ]]
+do
+	if [ $i -eq 9 ]; then
+		echo "Hi"
+	else
+		echo "Best school"
+	fi
+	((i += 1))
+done
